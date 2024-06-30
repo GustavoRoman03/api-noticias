@@ -14,3 +14,4 @@ http://localhost:8080/auth/generate-token
 Ambos son GET
 La misma puede probarse a traves de POSTMAN
 direccion del swagger: http://localhost:8080/swagger-ui/index.html?displayRequestDuration=true&operationsSorter=method&tagsSorter=alpha&url=/v3/api-docs#/
+Link de Swagger: http://localhost:8080/swagger-ui/index.html?displayRequestDuration=true&operationsSorter=method&tagsSorter=alpha&url=/v3/api-docs#/
